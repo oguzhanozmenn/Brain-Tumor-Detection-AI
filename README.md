@@ -18,3 +18,8 @@ Model dosyaları (`.h5`) boyutları nedeniyle bu depoya eklenmemiştir. Projeyi 
 1. Gerekli kütüphaneleri yükleyin:
    ```bash
    pip install -r requirements.txt
+   ## 📸 Ekran Görüntüleri
+
+**Yapay Zeka Analiz Sonucu (Isı Haritası ile Tümör Tespiti):**
+
+![Örnek Sonuç](https://github.com/oguzhanozmenn/Brain-Tumor-Detection-AI/blob/main/gecmis_taramalar/scan_20251209_180703.jpg)
