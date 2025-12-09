@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+dataset/
+gecmis_taramalar/
+*.db
+temp_img.jpg
+*.h5
+*.npy
+.DS_Store
+.idea/
