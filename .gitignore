@@ -1,13 +1,19 @@
+# Sanal Ortam (Gereksiz)
 .venv/
 venv/
 env/
+
+# Python Derleme Dosyaları
 __pycache__/
 *.pyc
-dataset/
-gecmis_taramalar/
-*.db
-temp_img.jpg
+
+# Büyük İşlenmiş Dosyalar (GitHub Limiti Yüzünden Yasak)
 *.h5
 *.npy
+
+# Veritabanı (İsteğe bağlı, istersen yükleyebilirsin ama genelde yüklenmez)
+*.db
+
+# Geçici Sistem Dosyaları
 .DS_Store
 .idea/
